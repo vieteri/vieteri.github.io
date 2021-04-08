@@ -7,4 +7,4 @@ permalink: /
 ---
 
 
-WADAAP
+I salute you for finding my website. Get amazed by my stuff
