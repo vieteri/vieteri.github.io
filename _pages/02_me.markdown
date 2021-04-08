@@ -11,7 +11,6 @@ permalink: /me/
 I am a Master's student in Aalto University and my major is smart home environments in Translation Engineering
 ## Skills
 
-I have knowledge in Windows and Linux systems and I am quite familiar with shell scripting by cmd, powershell and bash.
 * Python, C#, C++: I have experience in starting and finishing projects using forementioned languages.
 * Embedded systems: On a school project I have wired accelometer and temperature/humidity sensor to Raspberry Pi which reads sensor data for an hour and uploads it to cloud.
 * Databases: I have some knowledge setting up a Mariadb and I am proficient in T-SQL using Microsoft SQL management studio.
@@ -19,6 +18,7 @@ I have knowledge in Windows and Linux systems and I am quite familiar with shell
 * Servers: I have done some projects on Raspberry Pi which acts as a Web server and I have experience in setting up an Ubuntu-based server.
 * Android apps: I have little experience in creating a simple android app using androidstudio. The functionality was to fetch dog pictures from api and use camera and storage permissions to take and show pictures.
 * Finite state machine: Creating new STM using Object-Pascal.
+* Shell: I have proficiency in Bash and Powershell scripting
 
 ## Job experience
 
@@ -30,12 +30,12 @@ I have knowledge in Windows and Linux systems and I am quite familiar with shell
 
 ## Volunteering
 
-* Tutor 2014-2016: I have been a Tutor in Aalto University for new students which includes incorporating them to student culture and help them make friends in a new environment. I have been as a tutor in the Guild of Automation and Systems Technology.
+* Annual ball committee chairman 2019-2020: I was a co-chairman on Inkubio ry's annual ball, which occurred on March, 2020. 
 
 * International Officer 2016: I was in charge of international students in my guild AS and my responsibilities were recruiting international tutors and make sure that the new international students would get incorporated in Finnish culture
+
+* Tutor 2014-2016: I have been a Tutor in Aalto University for new students which includes incorporating them to student culture and help them make friends in a new environment. I have been as a tutor in the Guild of Automation and Systems Technology.
 
 * Party Committee 2017: I was part of a small but really active committee which organized huge events for AYY which include Gravitaatio, Wappu and Lakinlaskijaiset. My responsibilities varied but my tasks were to be in charge of ticket sales, logistics, recruiting volunteers to parties and be in charge of afterparty.
 
 * Suomi-100 2017: AYY organized Finland's biggest annual ball for Suomi-100 in Dipoli. It was done by a handful of eager volunteers and my job was to be in charge of Tech. We had an art installation on roof which emulated aurora lights and I was building AV for two stages. My co-responsibilities were also decorating, websites, ticket selling and marketing.
-
-* Annual ball committee chairman 2019-2020: I was a co-chairman on Inkubio ry's annual ball, which occurred on March, 2020. 

@@ -6,5 +6,7 @@ layout: default
 permalink: /
 ---
 
-
 I salute you for finding my website. Get amazed by my stuff!!
+
+Me page works as my cv\
+You can try to contact me using the methods found in Contact menu
