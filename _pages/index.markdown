@@ -6,6 +6,8 @@ layout: default
 permalink: /
 ---
 
+![shrek](/static/shrekfedora.jpg){: height="250px" align=center}
+
 I salute you for finding my website. Get amazed by my stuff!!
 
 Me page works as my portfolio\
