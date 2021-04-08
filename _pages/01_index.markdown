@@ -7,4 +7,4 @@ permalink: /
 ---
 
 
-I salute you for finding my website. Get amazed by my stuff
+I salute you for finding my website. Get amazed by my stuff!!

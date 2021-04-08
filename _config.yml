@@ -18,16 +18,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Peynlosit
+title: Kostaja
+me: Viet Tran
 email: viet_tran@windowslive.com
+telegram: https://t.me/ihmisruoska
+linkedin: https://www.linkedin.com/in/viet-tran-a9a492a8/
 description: >- # this means to ignore newlines until "baseurl:"
   Awesome site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-markdown: kramdown
+telegram_username: ihmisruoska
 github_username:  vieteri
-
 # Build settings
+markdown: kramdown
+
+include: ['_pages']
+
 theme: minima
 plugins:
   - jekyll-feed
