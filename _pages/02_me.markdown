@@ -8,7 +8,8 @@ permalink: /me/
 ![viet](/static/viet_pohina.png){: height="250px" align=center}
 
 
-I am a Master's student in Aalto University and my major is smart home environments in Translation Engineering
+I am a Master's student currently doing a Master's thesis in Aalto University and my major is smart home environments in Translation Engineering
+
 ## Skills
 
 * Python, C#, C++: I have experience in starting and finishing projects using forementioned languages.
