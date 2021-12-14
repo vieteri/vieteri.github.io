@@ -13,7 +13,3 @@ I salute you for finding my website. Get amazed by my stuff!!
 Me page works as my portfolio 
 
 You can try to contact me using the methods found in Contact menu.
-
-Test Azure
-
-Test Digitalocean App
