@@ -14,6 +14,6 @@ Me page works as my portfolio
 
 You can try to contact me using the methods found in Contact menu.
 
-Test Azure
+[Azure deploy](https://proud-water-050787c03.azurestaticapps.net/)
 
-Test Digitalocean App
+[Digitalocean deploy](https://vieteri-github-io-kwsll.ondigitalocean.app/)
