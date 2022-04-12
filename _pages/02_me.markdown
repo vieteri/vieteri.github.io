@@ -20,6 +20,7 @@ I am a Master's student currently doing a Master's thesis in Aalto University an
 * Android apps: I have little experience in creating a simple android app using androidstudio. The functionality was to fetch dog pictures from api and use camera and storage permissions to take and show pictures.
 * Finite state machine: Creating new STM using Object-Pascal.
 * Shell: I have proficiency in Bash and Powershell scripting
+* REST-API: I am capable of creating a REST-API using postgresql (Django or Deno)
 
 ## Job experience
 
