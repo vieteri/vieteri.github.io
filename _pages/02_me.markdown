@@ -29,6 +29,15 @@ I am a Master's student currently doing a Master's thesis in Aalto University an
 
 * Course assistant 2016-2017: I worked as a course assistant in C-programming course in Aalto University. My responsibilites were helping students who get stuck in their assignments.
 
+## Education
+
+* Aalto University: Master's degree in School of Electrical Engineering 2020-
+    * Major: Translational engineering (smart home automation)
+
+* Aalto university: B.Sc in School of Electrical Engineering 2013-2020
+    * Major: Automation
+    * Minor: Computer Science
+
 ## Volunteering
 
 * Annual ball committee chairman 2019-2020: I was a co-chairman on Inkubio ry's annual ball, which occurred on March, 2020. 
