@@ -14,4 +14,3 @@ Me page works as my portfolio
 
 You can try to contact me using the methods found in Contact menu.
 
-[Azure deploy](https://proud-water-050787c03.azurestaticapps.net/)
