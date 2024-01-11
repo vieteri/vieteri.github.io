@@ -6,11 +6,7 @@ layout: default
 permalink: /
 ---
 
-![shrek](/static/viet.png){: height="250px" align=center}
+![Viet](/static/viet.png){: height="250px" align=center}
 
-I salute you for finding my website. Get amazed by my stuff!!
-
-Me page works as my portfolio 
-
-You can try to contact me using the methods found in Contact menu.
+Welcome to my site. This website is used for showcasing my contacts and related projects to showcase my skills.
 
