@@ -12,7 +12,7 @@ I am a Master's student currently doing a Master's thesis in Aalto University an
 
 ## Skills
 
-* Python, C#, C++: I have experience in starting and finishing projects using forementioned languages.
+* Python, C++: I have experience in starting and finishing projects using forementioned languages.
 * Embedded systems: On a school project I have wired accelometer and temperature/humidity sensor to Raspberry Pi which reads sensor data for an hour and uploads it to cloud.
 * Databases: I have some knowledge setting up a Mariadb and I am proficient in T-SQL using Microsoft SQL management studio.
 * Git and Latex: I have used Git and Overleaf in school projects where I collaborate with other students.
